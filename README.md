@@ -7,7 +7,7 @@ Used Technology-
 2. Nodejs using socket.io library(Backend).
 
 <h3>How to Run on localhost </h3>
-1. Download the project.
-2. Do npm install in project directory to install necessary library.
-3. Type node index.js.
-4. You can see project running on port 8080.
+1. Download the project.<br>
+2. Do npm install in project directory to install necessary library.<br>
+3. Type node index.js.<br>
+4. You can see project running on port 8080.<br>
