@@ -12,4 +12,4 @@ Used Technology-
 3. Type node index.js.<br>
 4. You can see project running on port 8080.<br>
 
-Link for Working Project- https://git.heroku.com/chit-chat-app1.git
+Link for Working Project- https://chit-chat-app1.herokuapp.com/
